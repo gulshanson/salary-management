@@ -7,3 +7,5 @@ app.use("/employees", require("./routes/employeeRoutes"));
 app.use("/insights", require("./routes/insightRoutes"));
 
 module.exports = app;
+
+
